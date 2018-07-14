@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- *********KeyboardUtil相关********* -->
+    <dimen name="keyboard_content_panel_max_height">120dp</dimen>
+    <dimen name="keyboard_content_panel_min_height">0dp</dimen>
+
+</resources>
